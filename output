@@ -1,0 +1,32 @@
+VCD info: dumpfile fsm_music.vcd opened for output.
+
+Starting FSM Music Note Detector Test
+
+
+Playing Note: 0
+Detected note = 000
+
+Playing Note: 1
+Detected note = 000
+
+Playing Note: 2
+Detected note = 000
+
+Playing Note: 3
+Detected note = 000
+
+Playing Note: 4
+Detected note = 000
+
+Playing Note: 5
+Detected note = 000
+
+Playing Note: 6
+Detected note = 000
+
+Playing Note: 7
+Detected note = 000
+
+Simulation complete.
+[Done] exit with code=0 in 3.716 seconds
+
